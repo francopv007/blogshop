@@ -1,7 +1,3 @@
-ESTA ES UNA HISTORIA DE PRUEBA PARA GIT EN LA RED 
-/// este es un a modificacion con la prueba del commit
-hello word
+ESTA ES UNA HISTORIA DE PRUEBA PARA GIT EN LA RED
 
-este es una prueba mas de git, en platzi 
-
-siguiendo con la prueba
+este es un prueba del futuro al pasado para ver si se puede modificar una version antigua y llevar a la ultima version
